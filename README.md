@@ -152,8 +152,8 @@ Several graphical effects are used to improve the appearance of the simulation:
 ```text
 OpenGL-Solar-System-Simulation/
 │
-├── src/
-│   └── solar_system.c
+├── Demo/
+│   └── demo.mp4
 │
 ├── Screenshots/
 │   ├── Earth_and_Moon.png
@@ -166,8 +166,8 @@ OpenGL-Solar-System-Simulation/
 │   ├── Uranus.png
 │   └── Venus.png
 │
-├── Demo/
-│   └── demo.mp4
+├── src/
+│   └── solar_system.c
 │
 └── README.md
 ```
