@@ -90,7 +90,7 @@ This project demonstrates fundamental computer graphics concepts through an inte
 
 ### ♀ Venus
 
-![Venus](Screenshots/Venus.png)
+![Venus](Screenshots/venus.png)
 
 ---
 
