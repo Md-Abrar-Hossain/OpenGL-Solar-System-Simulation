@@ -58,7 +58,7 @@ This project demonstrates fundamental computer graphics concepts through an inte
 
 ### 🌍 Earth and Moon
 
-![Earth and Moon](Screenshots/Earthandmoon.png)
+![Earth and Moon](Screenshots/Earth_and_moon.png)
 
 ### Jupiter
 
