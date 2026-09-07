@@ -58,7 +58,7 @@ This project demonstrates fundamental computer graphics concepts through an inte
 
 ### 🌍 Earth and Moon
 
-![Earth and Moon](Screenshots/Earth_and_Moon.png)
+![Earth and Moon](Screenshots/Earth_and_moon.png)
 
 ### Jupiter
 
@@ -98,7 +98,7 @@ This project demonstrates fundamental computer graphics concepts through an inte
 
 A demonstration video of the Solar System simulation is included in the `Demo` folder.
 
-[▶️ Watch the Demo Video](Demo/demo.mp4)
+[▶️ Watch the Demo Video](Demo/Demo.mp4)
 
 ---
 
